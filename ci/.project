@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>ci</name>
+=======
+	<name>wp</name>
+>>>>>>> 6dd5472bd543c9f6c85de8a70eef41f94c77c7f0
 	<comment></comment>
 	<projects>
 	</projects>
 	<buildSpec>
 	</buildSpec>
 	<natures>
+<<<<<<< HEAD
 		<nature>com.aptana.projects.webnature</nature>
+=======
+>>>>>>> 6dd5472bd543c9f6c85de8a70eef41f94c77c7f0
 	</natures>
 </projectDescription>
